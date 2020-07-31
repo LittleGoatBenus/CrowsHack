@@ -10,7 +10,8 @@ scans = input("""please select the type of scan you wish to perform
                  1. SYN ACK scan 
                  2. OS scan
                  3. UDP scan 
-		 4. Complete scan\n"""
+		 4. Complete scan\n""")
+print("please wait...")
 
 if scans == '1':
 	scanner.scan(IP, '1-1024', '-v -sS')
