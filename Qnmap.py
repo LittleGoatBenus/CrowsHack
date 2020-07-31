@@ -39,7 +39,6 @@ elif scans == '4':
 	print("Ip is: ", scanner[IP].state())
 	print(scanner[IP].all_protocols())
 	print("open ports: ", scanner[IP]['tcp'].keys())
-else scans >= '5':
-	print("please enter an available scan")
+
   
                  
