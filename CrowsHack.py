@@ -6,8 +6,7 @@ nmapT = nmap3.NmapScanTechniques()
 
 print("""
 
-
-Join the Crow Discord for ethical Hacking and more :
+       Join the CrowsNest Discord : https://discord.gg/B5vJbSC
  ▄████▄   ██▀███   ▒█████   █     █░ ██░ ██  ▄▄▄       ▄████▄   ██ ▄█▀
 ▒██▀ ▀█  ▓██ ▒ ██▒▒██▒  ██▒▓█░ █ ░█░▓██░ ██▒▒████▄    ▒██▀ ▀█   ██▄█▒
 ▒▓█    ▄ ▓██ ░▄█ ▒▒██░  ██▒▒█░ █ ░█ ▒██▀▀██░▒██  ▀█▄  ▒▓█    ▄ ▓███▄░
