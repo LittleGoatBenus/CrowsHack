@@ -63,6 +63,11 @@ elif TypeSc == 7:
     print("please wait...")
     print(udpres)
 
+elif Typesc == 8:
+    fireres = nmap.nmap_detect_firewall(ip_a)
+    print("please wait...")
+    print(fireres)
+
 elif TypeSc == 15:
     osres = nmap.nmap_os_detection(ip_a)
     serres = nmap.nmap_version_detection(ip_a)
