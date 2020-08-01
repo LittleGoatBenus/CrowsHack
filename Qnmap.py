@@ -22,7 +22,7 @@ ip_a = input("IP/Host: ")
 TypeSc = input("""
  1. Top port scan       6. TCP scan
  2. OS detection        7. UDP scan
- 3. Service Version     8. workinprogress
+ 3. Service Version     8. Firewall scan
  4. ping scan           9. workinprogress
  5. SYN ACK scan        10.workinprogress     15. All scan
 
