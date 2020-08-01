@@ -18,7 +18,7 @@ print("""
 ░ ░         ░         ░ ░      ░     ░  ░  ░      ░  ░░ ░      ░  ░
 ░creator: LittleGoatBenus                                       ░
 
-
+print("if you wish to become a creator contact me on discord in the Crownest server")
 
 """)
 opt = input("""
